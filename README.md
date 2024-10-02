@@ -1,0 +1,1 @@
+# plugins-catalog-booster-for-woocommerce
