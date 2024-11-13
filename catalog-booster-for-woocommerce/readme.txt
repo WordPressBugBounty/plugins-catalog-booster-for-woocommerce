@@ -3,8 +3,8 @@ Contributors: impleCode, ndre
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E2MNWQKN7VPK4
 Tags: woocommerce, ecommerce, e-commerce, commerce, product catalog, product catalogue, catalog, catalogue, product, implecode, wordpress ecommerce, store, sales, sell, shop, shopping, display products, list products, products, wp catalog, blog catalog, product feed, product management, product portfolio, directory, gallery, product gallery, widget, post, plugin, admin, posts, inventory
 Requires at least: 3.5
-Tested up to: 6.6
-Stable tag: 1.2.6
+Tested up to: 6.7
+Stable tag: 1.2.7
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -76,6 +76,11 @@ If on the off-chance you do encounter issues with the product catalog pages afte
 7. Classic list can be enabled for all WooCommerce product or for selected with a shortcode.
 
 == Changelog ==
+
+= 1.2.7 - 13/11/2024 =
+
+* WordPress compatibility update
+* WooCommerce compatibility update
 
 = 1.2.6 - 09/09/2024 =
 

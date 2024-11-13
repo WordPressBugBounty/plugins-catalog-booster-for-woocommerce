@@ -4,13 +4,13 @@
  * Plugin Name: WooCommerce Catalog Booster & Product Catalog Mode
  * Plugin URI: https://implecode.com
  * Description: Switch WooCoomerce into product catalog and/or customize the view for your purpose.
- * Version: 1.2.6
+ * Version: 1.2.7
  * Author: impleCode
  * Author URI: https://implecode.com
  * Text Domain: catalog-booster-for-woocommerce
  * Domain Path: /lang/
  * WC requires at least: 3.0.0
- * WC tested up to: 9.2.3
+ * WC tested up to: 9.4.1
  *
  * Copyright: 2024 impleCode.
  */
