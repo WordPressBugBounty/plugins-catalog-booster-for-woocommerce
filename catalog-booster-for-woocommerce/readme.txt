@@ -1,14 +1,14 @@
-﻿=== WooCommerce Catalog Booster & Product Catalog Mode ===
+﻿=== Catalog Booster & Product Catalog Mode for WooCommerce ===
 Contributors: impleCode, ndre
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E2MNWQKN7VPK4
 Tags: woocommerce, ecommerce, e-commerce, commerce, product catalog, product catalogue, catalog, catalogue, product, implecode, wordpress ecommerce, store, sales, sell, shop, shopping, display products, list products, products, wp catalog, blog catalog, product feed, product management, product portfolio, directory, gallery, product gallery, widget, post, plugin, admin, posts, inventory
 Requires at least: 3.5
-Tested up to: 6.7
-Stable tag: 1.2.7
+Tested up to: 6.8
+Stable tag: 1.2.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-WooCommerce Catalog Booster lets you modify the standard layout, disable sales, transform e-commerce into simple & beautiful catalog.
+Catalog Booster for WooCommerce lets you modify the standard layout, disable sales, transform e-commerce into simple & beautiful catalog.
 
 == Description ==
 
@@ -18,7 +18,7 @@ Look no further! You just found your solution.
 
 = Disable WooCommerce parts (also in admin) =
 
-Would you like to disable shopping cart, price, ratings, reviews? WooCommerce Catalog Booster will let you achieve this with simple checkboxes for each element. It will also disable it in dashboard if you want.
+Would you like to disable shopping cart, price, ratings, reviews? Catalog Booster for WooCommerce will let you achieve this with simple checkboxes for each element. It will also disable it in dashboard if you want.
 
 = Add a button to each WooCommerce product page =
 
@@ -26,7 +26,7 @@ You can now enable button with custom label that will show up on each product pa
 
 = Enhance your store look =
 
-WooCommerce Catalog Booster in conjuction with eCommerce Product Catalog will let you select from one of 3 modern product listing templates. You will give your store a new look in a couple of seconds!
+Catalog Booster for WooCommerce in conjuction with eCommerce Product Catalog will let you select from one of 3 modern product listing templates. You will give your store a new look in a couple of seconds!
 
 = Simplify your product page design =
 
@@ -67,8 +67,8 @@ If on the off-chance you do encounter issues with the product catalog pages afte
 
 == Screenshots ==
 
-1. WooCommerce Catalog Booster General Settings.
-2. WooCommerce Catalog Booster Button Settings.
+1. Catalog Booster for WooCommerce General Settings.
+2. Catalog Booster for WooCommerce Button Settings.
 3. Modern Grid can be enabled for all WooCommerce products or for selected with a shortcode.
 4. Modern Tabbed Product page can be enabled for all WooCommerce products.
 5. Plain product page can be enabled for all WooCommerce products
@@ -76,6 +76,11 @@ If on the off-chance you do encounter issues with the product catalog pages afte
 7. Classic list can be enabled for all WooCommerce product or for selected with a shortcode.
 
 == Changelog ==
+
+= 1.2.8 - 05/09/2025 =
+
+* WooCommerce compatibility update
+* Plugin name changed to Catalog Booster & Product Catalog Mode for WooCommerce
 
 = 1.2.7 - 13/11/2024 =
 

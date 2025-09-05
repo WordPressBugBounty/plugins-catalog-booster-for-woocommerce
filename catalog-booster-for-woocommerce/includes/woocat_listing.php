@@ -31,7 +31,7 @@ add_action( 'ic_ajax_self_submit_init', 'ic_woo_ic_listing_enable' );
 
 function ic_woo_ic_listing_enable( $query = null ) {
 	$enabled = ic_is_listing_for_woo_enabled();
-	if ( ! empty( $enabled ) ) {
+	if ( ! empty( $enabled ) && empty( $query->query['product'] ) ) {
 		remove_filter( 'product_price', array( 'ic_price_display', 'raw_price_format' ), 5 );
 		add_filter( 'ic_set_archive_price', 'ic_woocat_price', 10, 2 );
 		add_filter( 'product_post_type_array', 'ic_woo_ic_post_type_enable' );
