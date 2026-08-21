@@ -14,13 +14,23 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 
 if ( ! function_exists( 'ic_filemtime' ) ) {
-
-	function ic_filemtime( $path ) {
+	/**
+	 * Gets a cache-busting timestamp query string for a file.
+	 *
+	 * @param string $path File path.
+	 *
+	 * @return string|null
+	 */
+	function ic_filemtime( $path, $time_only = false ) {
 		if ( file_exists( $path ) ) {
+			if ( $time_only ) {
+				return filemtime( $path );
+			}
 			return '?timestamp=' . filemtime( $path );
 		}
-	}
 
+		return null;
+	}
 }
 
 require_once( IC_WOOCAT_BASE_PATH . '/includes/pluggable/class-ic-activation-wizard.php' );
